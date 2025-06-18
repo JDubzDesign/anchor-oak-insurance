@@ -32,7 +32,7 @@ export default function App() {
 
             {/* Enhanced Tagline */}
             <p className="text-xl md:text-2xl mt-4 mb-8 opacity-90 max-w-3xl mx-auto leading-relaxed">
-              Protecting Florida families with comprehensive life insurance solutions.
+              Protecting families with comprehensive life insurance solutions.
               <span className="block mt-2 text-green-100">Affordable coverage. Personal service. Peace of mind.</span>
             </p>
 
@@ -101,7 +101,7 @@ export default function App() {
             <div className="text-center md:text-left">
               <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">Secure Your Family's Future</h2>
               <p className="text-xl mb-10 text-gray-600 leading-relaxed">
-                I help Florida families and individuals find affordable life insurance solutions that provide financial security and peace of mind for their loved ones.
+                I help families and individuals find affordable life insurance solutions that provide financial security and peace of mind for their loved ones.
               </p>
               <div className="flex flex-wrap justify-center md:justify-start gap-4">
                 <a href="#services" className="bg-green-600 text-white px-6 py-3 rounded-lg shadow hover:bg-green-700 transition duration-300">
@@ -128,7 +128,7 @@ export default function App() {
       <section id="services" className="bg-gray-50 py-20 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-gray-900">Life Insurance Solutions</h2>
-          <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">Comprehensive life insurance options designed to protect Florida families and provide financial security.</p>
+          <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">Comprehensive life insurance options designed to protect families and provide financial security.</p>
 
           {/* Diverse Family Protection Banner */}
           <div className="mb-16 grid md:grid-cols-2 gap-8">
@@ -210,18 +210,13 @@ export default function App() {
           <div className="md:w-1/2">
             <h2 className="text-3xl font-bold mb-4">About Me</h2>
             <p className="text-lg text-gray-600 mb-4">
-              I'm a licensed life insurance agent dedicated to helping Florida families understand and choose the best life insurance policies for their unique situations.
+              I'm a licensed life insurance agent dedicated to helping families understand and choose the best life insurance policies for their unique situations.
             </p>
             <p className="text-lg text-gray-600 mb-6">
               My mission is to provide personalized service and find affordable life insurance coverage options that give you and your family peace of mind.
             </p>
             <div className="flex gap-4">
               {/* Social media links */}
-              <a href="#" className="text-green-600 hover:text-green-800">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/>
-                </svg>
-              </a>
               {/* More social icons... */}
             </div>
           </div>
@@ -232,7 +227,7 @@ export default function App() {
       <section className="py-20 px-4 bg-white">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-gray-900">Trusted by Florida Families</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-gray-900">Trusted by Families</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">See how life insurance has provided peace of mind and financial security for families just like yours.</p>
           </div>
 
@@ -340,11 +335,11 @@ export default function App() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4">Anchor & Oak Insurance</h3>
-            <p className="text-gray-400">Providing reliable life insurance solutions for Florida families.</p>
+            <p className="text-gray-400">Providing reliable life insurance solutions for  families.</p>
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
-            <p className="text-gray-400 mb-2">Serving All of Florida</p>
+            <p className="text-gray-400 mb-2">Serving Florida and Louisiana</p>
             <p className="text-gray-400 mb-2">Phone: (337) 288-8166</p>
             <p className="text-gray-400">Email: contact@anchorandoak.com</p>
           </div>
